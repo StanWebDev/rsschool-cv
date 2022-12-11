@@ -2,9 +2,9 @@
 [link to account on Linked-in] (https://www.linkedin.com/in/stanislav-kirillov-a64062a2/)
 **Location**: Saint-Petersburg, Russia
 **DOB**: 9 March 1987 (age 35)
-**Landline**: +7 (812) 2732604
-**Mobile**: +7 (931) 3828785
-**email**: kirillov.webdev@gmail.com
+**Landline**: +7 (812) 2722605
+**Mobile**: +7 (931) 3838786
+**email**: kirillov.web.dev@gmail.com
 **GitHub** @StanWebDev
 
 *My work ethic is based on efficiency, reliability and attention to details. I am skilled at establishing and maintaining relationships and I thrive on new challenges.*
@@ -60,5 +60,5 @@ describe("Multiply", () => {
 ```
 
 ## Done projects
-[This is a link to CV] (https://StanWebDev.github.com/rsschool-cv/cv)
+[This is a link to CV] (https://StanWebDev.github.io/rsschool-cv/cv)
 
